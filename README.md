@@ -11,6 +11,7 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="gitLab" src="https://img.shields.io/badge/-Gitlab-F35555?style=flat-square&logo=gitlab&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-C32323?style=flat-square&logo=css3&logoColor=white" />
@@ -19,6 +20,8 @@
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-E12345?style=flat-square&logo=mysql&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-F33232?style=flat-square&logo=firebase&logoColor=white"/>
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe-Illustrator-A23433?style=flat-square&logo=illustrator&logoColor=white"/>
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe-Photoshop-B21244?style=flat-square&logo=photoshop&logoColor=white"/>
 </p>
 <h3>Open source projects</h3>
 <table>
@@ -59,6 +62,13 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/website-ban-linh-kien-dien-tu?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/website-ban-linh-kien-dien-tu?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/website-ban-linh-kien-dien-tu?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	<tr>
+      <td><a href="https://github.com/lequocvinh15042001/DO_AN_MOBILE_CHATTING_APP_REALTIME"><b>App Chatting realtime</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lequocvinh15042001/DO_AN_MOBILE_CHATTING_APP_REALTIME?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/DO_AN_MOBILE_CHATTING_APP_REALTIME?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/DO_AN_MOBILE_CHATTING_APP_REALTIME?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/DO_AN_MOBILE_CHATTING_APP_REALTIME?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
