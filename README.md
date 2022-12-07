@@ -78,6 +78,7 @@
 	<img width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/B%C6%B0u_%C4%91i%E1%BB%87n_S%C3%B3c_Tr%C4%83ng.jpg" /> 
 	<img width="200" src="https://vcdn1-dulich.vnecdn.net/2021/02/23/tuong-phat-nam-som-rong.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FOwxi2_K9VhTjLD06TpOSg" /> 
 	<img width="200" src="https://thamhiemmekong.com/wp-content/uploads/2020/05/cu-lao-dung-soc-trang.jpg" />
+	<img width="200" src="https://hilmedia.vn/wp-content/uploads/2021/07/Cu-Lao-Dung-1.jpg" />
 </p>
 <h3>Where to find me</h3>
 <p>
