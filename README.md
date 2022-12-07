@@ -1,7 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Vinh, Frontend developer from <img src="https://user-images.githubusercontent.com/70852643/205022108-d4ff07fe-cda6-48bd-83c0-85519708e889.png" width="17"/> <b>Ho Chi Minh City, Vietnam</b>. </p>
+<p>Welcome to my Git! </br> I'm Vinh, Frontend developer from <img src="https://user-images.githubusercontent.com/70852643/205022108-d4ff07fe-cda6-48bd-83c0-85519708e889.png" width="17"/> <b>Ho Chi Minh City, Vietnam</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -71,6 +71,9 @@
 	</a> 
 	<a href="https://www.facebook.com/vinhlq.it" target="_blank">
 		<img alt="LinkedIn" src="https://img.shields.io/badge/facebook-%232851A3.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+	</a>
+	<a href="https://62c92ffbac1c7d3ab3874f32--vinh-info.netlify.app/?fbclid=IwAR3o4pSVLBs1LLyO-GS6Fe3UGbsVOE8UQphjICn0wTBNyLQJH3NdxSyti-E" target="_blank">
+		<img alt="Portfolio" src="https://img.shields.io/badge/vinh-portfolio-brightgreen" />
 	</a>
 </p>
 
