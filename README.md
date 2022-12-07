@@ -55,7 +55,7 @@
   </tbody>
 </table>
 
-<h3>Welcome to <img src="https://user-images.githubusercontent.com/70852643/205022108-d4ff07fe-cda6-48bd-83c0-85519708e889.png" width="17"/> Vietnam! </h3>
+<h3>Welcome to <img src="https://user-images.githubusercontent.com/70852643/205022108-d4ff07fe-cda6-48bd-83c0-85519708e889.png" width="17"/> SocTrang - Vietnam! </h3>
 <p>
 	<img width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/B%C6%B0u_%C4%91i%E1%BB%87n_S%C3%B3c_Tr%C4%83ng.jpg" /> 
 	<img width="200" src="https://vcdn1-dulich.vnecdn.net/2021/02/23/tuong-phat-nam-som-rong.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FOwxi2_K9VhTjLD06TpOSg" /> 
