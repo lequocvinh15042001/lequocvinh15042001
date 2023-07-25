@@ -22,6 +22,7 @@
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-0ac6ff?style=flat-square&logo=docker&logoColor=white" />
 <img alt="Portainer" src="https://img.shields.io/badge/-Portainer-0a1bff?style=flat-square&logo=portainer&logoColor=white" />
 	<img alt="Budibase" src="https://img.shields.io/badge/-Budibase-131314?style=flat-square&logo=budibase&logoColor=white" />
+	<img alt="WordPress" src="https://img.shields.io/badge/-WordPress-080852?style=flat-square&logo=wordpress&logoColor=white" />
 </p>
 <h3>Open source projects</h3>
 <table>
