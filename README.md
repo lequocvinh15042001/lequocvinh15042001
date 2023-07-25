@@ -19,6 +19,7 @@
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-F33232?style=flat-square&logo=firebase&logoColor=white"/>
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe-Illustrator-A23433?style=flat-square&logo=illustrator&logoColor=white"/>
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe-Photoshop-B21244?style=flat-square&logo=photoshop&logoColor=white"/>
+	<img alt="Docker" src="https://img.shields.io/badge/-Docker-0ac6ff?style=flat-square&logo=docker&logoColor=white" />
 </p>
 <h3>Open source projects</h3>
 <table>
