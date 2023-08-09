@@ -66,14 +66,14 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/safep?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	<tr>
-      <td><a href="https://github.com/https://github.com/lequocvinh15042001/website-ban-linh-kien-dien-tu"><b>Website ban-linh-kien-dien-tu</b></a></td>
+      <td><a href="https://github.com/https://github.com/lequocvinh15042001/website-ban-linh-kien-dien-tu"><b>Website Ban Linh Kien Dien Tu</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/lequocvinh15042001/website-ban-linh-kien-dien-tu?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/website-ban-linh-kien-dien-tu?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/website-ban-linh-kien-dien-tu?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/website-ban-linh-kien-dien-tu?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	<tr>
-      <td><a href="https://github.com/lequocvinh15042001/DO_AN_MOBILE_CHATTING_APP_REALTIME"><b>App Chatting realtime</b></a></td>
+      <td><a href="https://github.com/lequocvinh15042001/DO_AN_MOBILE_CHATTING_APP_REALTIME"><b>App Chatting Real Time</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/lequocvinh15042001/DO_AN_MOBILE_CHATTING_APP_REALTIME?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/DO_AN_MOBILE_CHATTING_APP_REALTIME?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/DO_AN_MOBILE_CHATTING_APP_REALTIME?style=flat-square&labelColor=343b41"/></td>
