@@ -3,7 +3,10 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif">
 </div>
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/lequocvinh2001/count.svg" />
+</p>
 <h3>Things I usually use:</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -125,47 +128,5 @@
 		<img alt="Portfolio" src="https://img.shields.io/badge/vinh-portfolio-brightgreen" />
 	</a>
 </p>
-
-<script>
-
-        const quotes = document.getElementById("quotes");
-        const author = document.getElementById("author");
-        const newQuotes = document.getElementById("newQuotes");
-        const tweetme = document.getElementById("tweetme");   
-        let objData = "";
-        let quotesData = "";
-
-        const tweetNow = () =>{
-            let tweetPost =`https://twitter.com/intent/tweet?text=${quotesData.text} `;
-            window.open(tweetPost);
-        }
-
-        const getNewQuotes = () =>{
-            let randomQuotes = (Math.floor(Math.random()*1000));
-            console.log(randomQuotes);
-            quotesData = objData[randomQuotes];
-            quotes.innerHTML = `${quotesData.text}`;
-            (quotesData.author == null) ? 
-            author.innerHTML = `<span>unknown"</span>` : 
-            author.innerHTML = `By ${quotesData.author}`;
-        }
-            
-        const getQuotes = async () => {
-            const api ="https://type.fit/api/quotes";
-                try{
-                    let data = await fetch(api);
-                    objData = await data.json();
-                    getNewQuotes();
-                } 
-                catch(err){
-                    console.log(err);
-                }
-
-        };
-        newQuotes.addEventListener("click", getQuotes);
-        tweetme.addEventListener("click",tweetNow);
-        getQuotes();
-
-    </script>
 
 ------------
