@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
 
 <div id="header" align="center">
-<img src="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">
+<img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif">
 </div>
 
 <iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>
