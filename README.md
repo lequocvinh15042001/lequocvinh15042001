@@ -123,7 +123,7 @@
 		<img alt="LinkedIn" src="https://img.shields.io/badge/facebook-%232851A3.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 	</a>
 	<a href="https://62c92ffbac1c7d3ab3874f32--vinh-info.netlify.app" target="_blank">
-		<img alt="Portfolio" src="https://img.shields.io/badge/vinh-portfolio-brightgreen-%232851A3.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+		<img alt="Portfolio" src="https://img.shields.io/badge/vinh-portfolio-brightgreen" />
 	</a>
 </p>
 
