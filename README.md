@@ -2,10 +2,11 @@
 
 
 <p>Welcome to my Git! </br> I'm Vinh, I come from <img src="https://user-images.githubusercontent.com/70852643/205022108-d4ff07fe-cda6-48bd-83c0-85519708e889.png" width="17"/> <b>Ho Chi Minh City, Vietnam</b>. </p>
-<h3>Things I code with</h3>
+<h3>Things I usually use:</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/-Java-42bad8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -14,7 +15,6 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-C32323?style=flat-square&logo=css3&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-E12345?style=flat-square&logo=mysql&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-F33232?style=flat-square&logo=firebase&logoColor=white"/>
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe-Illustrator-A23433?style=flat-square&logo=illustrator&logoColor=white"/>
@@ -44,6 +44,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/Find-Shortest-Route-Travel-In-Thu-Duc-City-2021?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/Find-Shortest-Route-Travel-In-Thu-Duc-City-2021?style=flat-square&labelColor=343b41"/></td>
     </tr>
+	<tr>
+      <td><a href="https://github.com/lequocvinh15042001/mathSolverVN"><b>Math Solver Website</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lequocvinh15042001/mathSolverVN?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/mathSolverVN?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/mathSolverVN?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/mathSolverVN?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/lequocvinh15042001/Project_movie_ticket_booking_T11"><b>Front End Booking Movie Ticket Website</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/lequocvinh15042001/Project_movie_ticket_booking_T11?style=flat-square&labelColor=343b41"/></td>
@@ -65,12 +72,12 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/safep?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/safep?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	<tr>
-      <td><a href="https://github.com/https://github.com/lequocvinh15042001/website-ban-linh-kien-dien-tu"><b>Website Ban Linh Kien Dien Tu</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/lequocvinh15042001/website-ban-linh-kien-dien-tu?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/website-ban-linh-kien-dien-tu?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/website-ban-linh-kien-dien-tu?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/website-ban-linh-kien-dien-tu?style=flat-square&labelColor=343b41"/></td>
+	  <tr>
+      <td><a href="https://github.com/lequocvinh15042001/HCI_Nhom4_Project"><b>HCI Nhom4 Project</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lequocvinh15042001/HCI_Nhom4_Project?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/HCI_Nhom4_Project?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/HCI_Nhom4_Project?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/HCI_Nhom4_Project?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	<tr>
       <td><a href="https://github.com/lequocvinh15042001/DO_AN_MOBILE_CHATTING_APP_REALTIME"><b>App Chatting Real Time</b></a></td>
@@ -88,11 +95,11 @@
     </tr>
 	  
 <tr>
-      <td><a href="https://github.com/lequocvinh15042001/HCI_Nhom4_Project"><b>HCI Nhom4 Project</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/lequocvinh15042001/HCI_Nhom4_Project?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/HCI_Nhom4_Project?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/HCI_Nhom4_Project?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/HCI_Nhom4_Project?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/lequocvinh15042001/leetcode"><b>Practice Leetcode With Java</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lequocvinh15042001/leetcode?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/leetcode?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/leetcode?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/leetcode?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
@@ -115,8 +122,8 @@
 	<a href="https://www.facebook.com/vinhlq.it" target="_blank">
 		<img alt="LinkedIn" src="https://img.shields.io/badge/facebook-%232851A3.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 	</a>
-	<a href="https://62c92ffbac1c7d3ab3874f32--vinh-info.netlify.app/?fbclid=IwAR3o4pSVLBs1LLyO-GS6Fe3UGbsVOE8UQphjICn0wTBNyLQJH3NdxSyti-E" target="_blank">
-		<img alt="Portfolio" src="https://img.shields.io/badge/vinh-portfolio-brightgreen" />
+	<a href="https://62c92ffbac1c7d3ab3874f32--vinh-info.netlify.app" target="_blank">
+		<img alt="Portfolio" src="https://img.shields.io/badge/vinh-portfolio-brightgreen-%232851A3.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 	</a>
 </p>
 
