@@ -1,10 +1,11 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> Hey! Nice to meet you.</h1>
+
+<p>Welcome to my Git! </br> I'm Vinh, I come from <img src="https://user-images.githubusercontent.com/70852643/205022108-d4ff07fe-cda6-48bd-83c0-85519708e889.png" width="17"/> <b>Ho Chi Minh City, Vietnam</b>. </p>
 
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif">
 </div>
 
-<p>Welcome to my Git! </br> I'm Vinh, I come from <img src="https://user-images.githubusercontent.com/70852643/205022108-d4ff07fe-cda6-48bd-83c0-85519708e889.png" width="17"/> <b>Ho Chi Minh City, Vietnam</b>. </p>
 <h3>Things I usually use:</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -21,9 +22,9 @@
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe-Photoshop-B21244?style=flat-square&logo=photoshop&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-0ac6ff?style=flat-square&logo=docker&logoColor=white" />
 <img alt="Portainer" src="https://img.shields.io/badge/-Portainer-0a1bff?style=flat-square&logo=portainer&logoColor=white" />
-	<img alt="Budibase" src="https://img.shields.io/badge/-Budibase-131314?style=flat-square&logo=budibase&logoColor=white" />
-	<img alt="WordPress" src="https://img.shields.io/badge/-WordPress-080852?style=flat-square&logo=wordpress&logoColor=white" />
-	<img alt="Nginx" src="https://img.shields.io/badge/-Nginx-f05213?style=flat-square&logo=nginx&logoColor=white" />
+<img alt="Budibase" src="https://img.shields.io/badge/-Budibase-131314?style=flat-square&logo=budibase&logoColor=white" />
+<img alt="WordPress" src="https://img.shields.io/badge/-WordPress-080852?style=flat-square&logo=wordpress&logoColor=white" />
+<img alt="Nginx" src="https://img.shields.io/badge/-Nginx-f05213?style=flat-square&logo=nginx&logoColor=white" />
 </p>
 <h3>Open source projects</h3>
 <table>
