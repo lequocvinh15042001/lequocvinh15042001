@@ -27,6 +27,11 @@
 <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-080852?style=flat-square&logo=wordpress&logoColor=white" />
 <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-f05213?style=flat-square&logo=nginx&logoColor=white" />
 </p>
+
+<p style="display: flex; justify-contect: space-between;">
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=lequocvinh15042001" />
+</p>
+
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -129,4 +134,5 @@
 	</a>
 </p>
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lequocvinh15042001)](https://github.com/LordDashMe/github-contribution-stats/)
 ------------
