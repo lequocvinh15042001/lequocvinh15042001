@@ -1,5 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
 
+<div style="width:100%;height:0;padding-bottom:72%;position:relative;"><iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>
 
 <p>Welcome to my Git! </br> I'm Vinh, I come from <img src="https://user-images.githubusercontent.com/70852643/205022108-d4ff07fe-cda6-48bd-83c0-85519708e889.png" width="17"/> <b>Ho Chi Minh City, Vietnam</b>. </p>
 <h3>Things I usually use:</h3>
@@ -7,8 +8,6 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/-Java-42bad8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="gitLab" src="https://img.shields.io/badge/-Gitlab-F35555?style=flat-square&logo=gitlab&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -16,7 +15,6 @@
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-C32323?style=flat-square&logo=css3&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-E12345?style=flat-square&logo=mysql&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-F33232?style=flat-square&logo=firebase&logoColor=white"/>
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe-Illustrator-A23433?style=flat-square&logo=illustrator&logoColor=white"/>
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe-Photoshop-B21244?style=flat-square&logo=photoshop&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-0ac6ff?style=flat-square&logo=docker&logoColor=white" />
