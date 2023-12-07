@@ -64,13 +64,6 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/Project_movie_ticket_booking_T11?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/lequocvinh15042001/ui-linhkiendientuweb"><b>Electronicity Website</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/lequocvinh15042001/ui-linhkiendientuweb?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/ui-linhkiendientuweb?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/ui-linhkiendientuweb?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/ui-linhkiendientuweb?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/lequocvinh15042001/safep"><b>Safe Place Project FE Simple v0.9</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/lequocvinh15042001/safep?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/safep?style=flat-square&labelColor=343b41"/></td>
