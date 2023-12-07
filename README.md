@@ -1,7 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514591/5948/bongo_blob.gif?1643514591" width="40"/> Hey! Nice to meet you.</h1>
 
-<p>Welcome to my Git!</p>
-
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif">
 </div>
@@ -127,5 +125,5 @@
 		<img alt="Portfolio" src="https://img.shields.io/badge/vinh-portfolio-brightgreen" />
 	</a>
 </p>
-
+<img src='https://mr-vansh.github.io/Random-Quotes/' title="Random Quotes" alt="Random Quotes" width="512px"/>
 ------------
