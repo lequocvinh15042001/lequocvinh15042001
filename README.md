@@ -1,10 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif">
+<img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif">
 </div>
-
-<div style="width:100%;height:0;padding-bottom:67%;position:relative;"><iframe src="https://giphy.com/embed/mTPjPA6SSXgTsnZ1Dh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-funny-code-not-working-mTPjPA6SSXgTsnZ1Dh">via GIPHY</a></p>
 
 <p>Welcome to my Git! </br> I'm Vinh, I come from <img src="https://user-images.githubusercontent.com/70852643/205022108-d4ff07fe-cda6-48bd-83c0-85519708e889.png" width="17"/> <b>Ho Chi Minh City, Vietnam</b>. </p>
 <h3>Things I usually use:</h3>
