@@ -10,7 +10,7 @@
 <h3>Things I usually use:</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/-Java-42bad8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/-Java-42bad8?style=flat-square&logo=java&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="gitLab" src="https://img.shields.io/badge/-Gitlab-F35555?style=flat-square&logo=gitlab&logoColor=white" />
