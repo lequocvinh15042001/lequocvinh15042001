@@ -11,8 +11,8 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lequocvinh15042001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Vinh's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequocvinh15042001&layout=compact&theme=dracula" alt="Vinh's Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lequocvinh15042001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Vinh's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequocvinh15042001&layout=compact&theme=tokyonight" alt="Vinh's Top Languages" width="48%"/>
 </p>
 
 ---
@@ -31,10 +31,7 @@
 
 <p align="center">
   <a href="https://app.daily.dev/quocvinh154">
-    <img src="https://api.daily.dev/devcards/v2/LKf5EOTdGtrLtKSEGWWzs.png?r=4fm" width="356" alt="Quốc Vinh Lê's Dev Card"/>
-  </a>
-  <a href="https://github.com/LordDashMe/github-contribution-stats/">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=lequocvinh15042001" alt="Contribution Stats"/>
+    <img src="https://api.daily.dev/devcards/v2/LKf5EOTdGtrLtKSEGWWzs.png?r=4fm&type=wide" width="652" alt="Quốc Vinh Lê's Dev Card"/>
   </a>
 </p>
 
@@ -104,6 +101,48 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/Find-Shortest-Route-Travel-In-Thu-Duc-City-2021?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/Find-Shortest-Route-Travel-In-Thu-Duc-City-2021?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/Find-Shortest-Route-Travel-In-Thu-Duc-City-2021?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lequocvinh15042001/mathSolverVN"><b>Math Solver Website</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lequocvinh15042001/mathSolverVN?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/mathSolverVN?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/mathSolverVN?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/mathSolverVN?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lequocvinh15042001/Project_movie_ticket_booking_T11"><b>Front End Booking Movie Ticket Website</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lequocvinh15042001/Project_movie_ticket_booking_T11?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/Project_movie_ticket_booking_T11?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/Project_movie_ticket_booking_T11?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/Project_movie_ticket_booking_T11?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lequocvinh15042001/safep"><b>Safe Place Project FE Simple v0.9</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lequocvinh15042001/safep?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/safep?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/safep?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/safep?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lequocvinh15042001/HCI_Nhom4_Project"><b>HCI Nhom4 Project</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lequocvinh15042001/HCI_Nhom4_Project?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/HCI_Nhom4_Project?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/HCI_Nhom4_Project?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/HCI_Nhom4_Project?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lequocvinh15042001/DO_AN_MOBILE_CHATTING_APP_REALTIME"><b>App Chatting Real Time</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lequocvinh15042001/DO_AN_MOBILE_CHATTING_APP_REALTIME?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/DO_AN_MOBILE_CHATTING_APP_REALTIME?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/DO_AN_MOBILE_CHATTING_APP_REALTIME?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/DO_AN_MOBILE_CHATTING_APP_REALTIME?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lequocvinh15042001/Covid-19-App-Tracking"><b>Covid 19 App Tracking</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lequocvinh15042001/Covid-19-App-Tracking?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/Covid-19-App-Tracking?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/Covid-19-App-Tracking?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/Covid-19-App-Tracking?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/lequocvinh15042001/leetcode"><b>Practice Leetcode With Java</b></a></td>
