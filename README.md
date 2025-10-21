@@ -9,6 +9,7 @@
 </p>
 <h3>Things I usually use:</h3>
 <p>
+	<a href="https://app.daily.dev/quocvinh154"><img src="https://api.daily.dev/devcards/v2/LKf5EOTdGtrLtKSEGWWzs.png?r=4fm" width="356" alt="Quốc Vinh Lê's Dev Card"/></a>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/-Java-42bad8?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
