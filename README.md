@@ -6,12 +6,9 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif">
 </div>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/lequocvinh2001/count.svg" />
-</p>
 <h3>Things I usually use:</h3>
 <p>
+	<img alt="NestJs" src="https://img.shields.io/badge/-Nestjs-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/-Java-42bad8?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
