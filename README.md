@@ -1,6 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514591/5948/bongo_blob.gif?1643514591" width="40"/> Hey! I'm Quốc Vinh. Nice to meet you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514591/5948/bongo_blob.gif?1643514591" width="40"/> Hey! Nice to meet you.</h1>
 
-<p>I'm a Fullstack Developer with a passion for building robust applications using NestJS, React, and Java. I enjoy tackling challenges and continuously learning new technologies.</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=20&pause=1000&color=FFFFFF&width=600&lines=I'm+Quốc+Vinh%2C+a+Fullstack+Developer;I+build+robust+applications+with+NestJS%2C+React%2C+%26+Java;I'm+passionate+about+DevOps+and+Cloud+Tech" />
 
 <p align="center">
   <img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif">
@@ -8,7 +8,37 @@
 
 ---
 
-### 📊 My Stats & Activity
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lequocvinh15042001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Vinh's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequocvinh15042001&layout=compact&theme=dracula" alt="Vinh's Top Languages" width="48%"/>
+</p>
+
+---
+
+### 🚀 My Portfolio
+
+<p align="center">
+  <i>Đây là bản xem trước! Bấm vào ảnh để xem trang web trực tiếp.</i>
+  <br><br>
+  <a href="https://quocvinh.netlify.app/">
+    <img src="https://raw.githubusercontent.com/lequocvinh15042001/lequocvinh15042001/main/portfolio-preview.png" alt="My Portfolio Website" width="90%" />
+  </a>
+</p>
+
+> **Hướng dẫn thêm ảnh Portfolio:**
+> 1.  Truy cập trang `https://quocvinh.netlify.app/` và chụp một ảnh màn hình thật đẹp.
+> 2.  Trong repository này của bạn, vào tab "Issues" -> "New Issue".
+> 3.  Kéo thả file ảnh vừa chụp vào phần bình luận. GitHub sẽ tạo ra một đường link Markdown.
+> 4.  Sao chép **chỉ đường link** (phần `https://...`) và thay thế vào `src="..."` ở trên.
+> 5.  Xóa dòng "QUAN TRỌNG" và "Hướng dẫn" này đi là xong!
+> 
+> *(Tôi đã dùng tạm một link ảnh placeholder cho bạn, bạn nên thay thế nó)*
+
+---
+
+### 📈 My Activity
 
 <p align="center">
   <a href="https://app.daily.dev/quocvinh154">
@@ -68,7 +98,6 @@
 ---
 
 ### 🚀 My Open Source Projects
-
 <table>
   <thead align="center">
     <tr style="border: none;">
@@ -86,48 +115,6 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/Find-Shortest-Route-Travel-In-Thu-Duc-City-2021?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/Find-Shortest-Route-Travel-In-Thu-Duc-City-2021?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/Find-Shortest-Route-Travel-In-Thu-Duc-City-2021?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/lequocvinh15042001/mathSolverVN"><b>Math Solver Website</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/lequocvinh15042001/mathSolverVN?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/mathSolverVN?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/mathSolverVN?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/mathSolverVN?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/lequocvinh15042001/Project_movie_ticket_booking_T11"><b>Front End Booking Movie Ticket Website</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/lequocvinh15042001/Project_movie_ticket_booking_T11?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/Project_movie_ticket_booking_T11?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/Project_movie_ticket_booking_T11?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/Project_movie_ticket_booking_T11?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/lequocvinh15042001/safep"><b>Safe Place Project FE Simple v0.9</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/lequocvinh15042001/safep?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/safep?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/safep?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/safep?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/lequocvinh15042001/HCI_Nhom4_Project"><b>HCI Nhom4 Project</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/lequocvinh15042001/HCI_Nhom4_Project?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/HCI_Nhom4_Project?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/HCI_Nhom4_Project?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/HCI_Nhom4_Project?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/lequocvinh15042001/DO_AN_MOBILE_CHATTING_APP_REALTIME"><b>App Chatting Real Time</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/lequocvinh15042001/DO_AN_MOBILE_CHATTING_APP_REALTIME?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/DO_AN_MOBILE_CHATTING_APP_REALTIME?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/DO_AN_MOBILE_CHATTING_APP_REALTIME?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/DO_AN_MOBILE_CHATTING_APP_REALTIME?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/lequocvinh15042001/Covid-19-App-Tracking"><b>Covid 19 App Tracking</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/lequocvinh15042001/Covid-19-App-Tracking?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/lequocvinh15042001/Covid-19-App-Tracking?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/lequocvinh15042001/Covid-19-App-Tracking?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lequocvinh15042001/Covid-19-App-Tracking?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/lequocvinh15042001/leetcode"><b>Practice Leetcode With Java</b></a></td>
@@ -153,7 +140,7 @@
   <a href="https://www.facebook.com/vinhlq.it" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/facebook-%232851A3.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://62c92ffbac1c7d3ab3874f32--vinh-info.netlify.app" target="_blank">
+  <a href="https://quocvinh.netlify.app/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/vinh-portfolio-brightgreen?style=for-the-badge" />
   </a>
 </p>
