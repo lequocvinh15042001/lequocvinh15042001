@@ -32,17 +32,25 @@
 <p>
   <strong>Frontend:</strong><br>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-C32323?style=flat-square&logo=css3&logoColor=white" />
 </p>
 <p>
+  <strong>Mobile:</strong><br>
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+</p>
+<p>
   <strong>Databases:</strong><br>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-E12345?style=flat-square&logo=mysql&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 <p>
-  <strong>DevOps & Tools:</strong><br>
+  <strong>Cloud, DevOps & Tools:</strong><br>
+  <img alt="Amazon AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="DevOps" src="https://img.shields.io/badge/-DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-0ac6ff?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Portainer" src="https://img.shields.io/badge/-Portainer-0a1bff?style=flat-square&logo=portainer&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
