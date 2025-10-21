@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514591/5948/bongo_blob.gif?1643514591" width="40"/> Hey! Nice to meet you.</h1>
-</br>
+<br>
 <a href="https://app.daily.dev/quocvinh154"><img src="https://api.daily.dev/devcards/v2/LKf5EOTdGtrLtKSEGWWzs.png?r=4fm" width="356" alt="Quốc Vinh Lê's Dev Card"/></a>
-</br>
+<br>
 
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif">
