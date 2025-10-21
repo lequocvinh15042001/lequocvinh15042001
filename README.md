@@ -8,7 +8,7 @@
 </div>
 <h3>Things I usually use:</h3>
 <p>
-	<img alt="NestJs" src="https://img.shields.io/badge/-Nestjs-45b8d8?style=flat-square&logo=react&logoColor=white" />
+	<img alt="NestJs" src="https://img.shields.io/badge/-Nest-45s2d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/-Java-42bad8?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
