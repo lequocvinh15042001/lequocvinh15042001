@@ -11,8 +11,8 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lequocvinh15042001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Vinh's GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequocvinh15042001&layout=compact&theme=tokyonight" alt="Vinh's Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lequocvinh15042001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Vinh's GitHub Stats" width="48%"/>
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ### 🚀 My Portfolio
 
 <p align="center">
-  <i>Đây là bản xem trước! Bấm vào ảnh để xem trang web trực tiếp.</i>
+  <i>This is a preview! Click on the image to view the live website.</i>
   <br><br>
   <a href="https://quocvinh.netlify.app/">
     <img src="https://private-user-images.githubusercontent.com/78015080/503462385-8a108436-ca55-4388-a48f-021c5da91ae0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEwMTQ3MDQsIm5iZiI6MTc2MTAxNDQwNCwicGF0aCI6Ii83ODAxNTA4MC81MDM0NjIzODUtOGExMDg0MzYtY2E1NS00Mzg4LWE0OGYtMDIxYzVkYTkxYWUwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDIxVDAyNDAwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIxODg2ZTJhYjAwYjNjZDc3ZmY0MzAwYWQzYjNhYjBmODYyOTk1ZmQzOGYwZWI3ZDRmZmRlZDVlMWZlZjc1ZTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.i32kzuYPj9pxeLhQbIop_5gHuRKJCMrioxpcPig4eB4" alt="My Portfolio Website" width="90%" />
