@@ -7,7 +7,7 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=45b8d8&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Qu%E1%BB%91c+Vinh+(Vinh+LQ)+%F0%9F%91%8B;Fullstack+Software+Engineer;Passionate+about+Cloud+%26+DevOps+%E2%98%81%EF%B8%8F;Building+Robust+%26+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=45b8d8&center=true&vCenter=true&width=850&lines=Hi+there!+I'm+Qu%E1%BB%91c+Vinh+(Vinh+LQ)+%F0%9F%91%8B;Fullstack+Software+Engineer;Passionate+about+Cloud,+DevOps+%26+IaC+%E2%98%81%EF%B8%8F;Building+AI-Powered+Apps+(LLM,+RAG)+%F0%9F%A4%96;Crafting+Robust+%26+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,28 +18,50 @@
 
 ## 👨‍💻 About Me
 
-I am a dedicated **Fullstack Developer** with a strong foundation in building scalable web applications and a growing passion for **DevOps and Cloud Architecture**. I enjoy bridging the gap between engineering and design—combining my technical knowledge with a keen eye for system optimization.
+I am a dedicated **Software Engineer** with a strong foundation in building scalable applications and a deep passion for **Cloud Architecture, DevOps, and Artificial Intelligence**. I thrive on solving complex problems—whether it's designing highly available microservices, automating infrastructure, or integrating intelligent LLM-driven features.
 
-- 🔭 I’m currently working on: **Enterprise-level applications using NestJS, React, and Java**.
-- 🌱 I’m currently learning: **Advanced AWS Services, Kubernetes, and CI/CD Automation**.
-- 👯 I’m looking to collaborate on: **Open-source projects, Tech communities, and innovative startups**.
-- 💡 Core Philosophy: *Write code for humans to read, and for machines to execute efficiently.*
-- 📫 How to reach me: **[vinhlqit1541@gmail.com](mailto:vinhlqit1541@gmail.com)**
+- 🔭 **Currently working on:** Enterprise-level applications using NestJS, .NET, React, and Java.
+- 🌱 **Currently exploring:** Advanced AWS, Kubernetes orchestration, Infrastructure as Code (IaC), and AI/LLM applications (RAG architecture).
+- ⚡ **Tech Interests:** Augmented Reality (AR) experiences and next-gen web frameworks.
+- 👯 **Looking to collaborate on:** Open-source projects, Tech communities, and innovative AI/Cloud startups.
+- 💡 **Core Philosophy:** *Write code for humans to read, systems to scale, and machines to execute efficiently.*
+- 📫 **How to reach me:** **[vinhlqit1541@gmail.com](mailto:vinhlqit1541@gmail.com)**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Capabilities
 
-*Hover over the icons to see the technologies I work with daily!*
+*My toolbox for turning ideas into scalable realities:*
 
-<div align="center">
+### 🌐 Frontend & Mobile
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nestjs,nodejs,express,ts,js,react,vue,redux,flutter,html,css,tailwind,sass&perline=15" alt="Languages & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,vue,redux,flutter,html,css,tailwind,sass,figma&perline=15" alt="Frontend & Mobile" />
+  </a>
+</div>
+
+### ⚙️ Backend, Frameworks & Databases
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,nestjs,express,postgres,mysql,mongodb,redis&perline=15" alt="Backend & DBs" />
   </a>
   <br>
+  <img src="https://img.shields.io/badge/Koa.js-333333?style=for-the-badge&logo=koa&logoColor=white" alt="Koa" />
+</div>
+
+### ☁️ Cloud, DevOps & Infrastructure as Code (IaC)
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,docker,kubernetes,githubactions,gitlab,nginx,linux,git,postman,figma&perline=15" alt="Databases, DevOps & Tools" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,githubactions,gitlab,nginx,bash,git&perline=15" alt="DevOps & Cloud" />
   </a>
+</div>
+
+### 🤖 AI, AR & Emerging Technologies
+<div align="left">
+  <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI" />
+  <img src="https://img.shields.io/badge/LLMs_%26_Prompting-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG_Architecture-4B32C3?style=for-the-badge&logo=langchain&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Augmented_Reality_(AR)-FF3366?style=for-the-badge&logo=unity&logoColor=white" alt="AR" />
 </div>
 
 ---
@@ -65,7 +87,7 @@ I am a dedicated **Fullstack Developer** with a strong foundation in building sc
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequocvinh15042001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 </div>
 
-### 🐍 Code Contribution Animation (Snake Game)
+### 🐍 Code Contribution Animation
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lequocvinh15042001/lequocvinh15042001/output/github-contribution-grid-snake-dark.svg">
@@ -78,7 +100,7 @@ I am a dedicated **Fullstack Developer** with a strong foundation in building sc
 
 ## 🚀 Featured Projects
 
-*These cards update automatically in real-time. Click to explore the source code!*
+*Real-time project cards. Click to explore the source code!*
 
 <div align="center">
   <a href="https://github.com/lequocvinh15042001/Find-Shortest-Route-Travel-In-Thu-Duc-City-2021">
@@ -145,5 +167,5 @@ I am a dedicated **Fullstack Developer** with a strong foundation in building sc
 
 <br>
 <div align="center">
-  <i>Made with 💻 & ☕ by <b>Quốc Vinh</b></i>
+  <i>Made with 💻, ☕ & 🤖 by <b>Quốc Vinh</b></i>
 </div>
